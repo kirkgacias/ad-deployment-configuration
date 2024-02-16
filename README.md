@@ -11,7 +11,7 @@
 
 <h2>Prerequisites</h2>
 
-- Building the Foundation: Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs
+- <a href="https://github.com/kirkgacias/ad-and-azuresetup"> Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs </a>
 
 <h2>Key Objectives</h2>
 <h3>Active Directory Installation</h3>
